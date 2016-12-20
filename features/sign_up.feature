@@ -5,4 +5,5 @@ Feature: Sign up functionality of udemy.com
     When Provide the signing up details
     And Tick the check box
     Then Click the sign up button
-		Then Close the web page
+    Then Close the web page
+
